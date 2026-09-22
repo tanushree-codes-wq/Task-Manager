@@ -8,6 +8,7 @@ over time without relying on a paid or overly
 complex tool. This project addresses that gap with 
 a lightweight, command-line To-Do List Manager 
 built in Python. 
+
 Scope 
 The project covers three core operations: adding 
 new tasks, managing existing tasks (viewing, 
@@ -20,10 +21,12 @@ a local JSON file, so tasks persist between runs. It
 does not cover reminders/notifications, a 
 graphical interface, or multi-user accounts. 
 Target Users 
-1. Students managing assignments and 
-deadlines 
-2. Anyone who wants a lightweight, no-frills task 
+
+Students managing assignments and 
+deadlines
+Anyone who wants a lightweight, no-frills task 
 tracker without installing complex software 
+
 High-Level Features 
 1. Add a new task with description, priority 
 (High/Medium/Low), and due date 
